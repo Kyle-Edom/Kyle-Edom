@@ -17,7 +17,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyle-Edom&theme=dark&show_icons=true)
 
 ### 📫 Let's Connect!  
-- 📧 Email: kyleedom6@gmail.com
+- 📧 Email: kyleedom3@gmail.com
 - 💼 LinkedIn:   
 - 🌐 Portfolio: 
 
