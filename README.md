@@ -9,6 +9,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 
 ### 🏆 Certifications.<br/>  
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-EE4C2C?logo=comptia&logoColor=white&style=for-the-badge)  
