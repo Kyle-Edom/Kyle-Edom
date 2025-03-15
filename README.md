@@ -19,6 +19,6 @@
 
 ### 📫 Let's Connect!  
 - 📧 Email: kyleedom3@gmail.com
-- 💼 LinkedIn:   
+- 💼 LinkedIn: www.linkedin.com/in/kyle-edom
 - 🌐 Portfolio: 
 
