@@ -22,7 +22,7 @@ To leverage strategic insight and innovation to help organizations harness the p
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-EE4C2C?logo=comptia&logoColor=white&style=for-the-badge)  
 ![Cisco Introduction to IoT](https://img.shields.io/badge/Cisco_Introduction_to_IoT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
 ![Microsoft Excel: Learn Modern Excel for Data Analysis](https://img.shields.io/badge/Microsoft%20Excel%20(Learn%20Modern%20Excel%20for%20Data%20Analysis)-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![CCNA (In Progress)](https://img.shields.io/badge/CCNA%20(In%20Progress)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 
 
 ### 📫 Let's Connect!  
